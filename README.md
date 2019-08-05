@@ -1,5 +1,5 @@
 # First Person Narratives
 ### A project that performs sentiment analysis
 
-[Paper](https://github.com/harshkaria/firstpersonnarratives/blob/master/Karia_Tor_Narla_Paper.pdf)
+[Paper](https://github.com/harshkaria/firstpersonnarratives/blob/master/Karia_Tor_Narla_Paper.pdf) <br>
 [Poster](https://github.com/harshkaria/firstpersonnarratives/blob/master/poster_sentiment_analysis_on_first_person_narratives.pdf)
